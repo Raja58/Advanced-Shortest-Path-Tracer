@@ -11,7 +11,7 @@
   <p align="center">
     <b> For project report click below! </b>
     <br />
-    <a href="https://drive.google.com/file/d/1qVvd0E_7ume__K7zdBN3CuXx91VE4a5g/view" target="_blank"><strong>Report »</strong></a>
+    <a href="https://drive.google.com/file/d/1qVvd0E_7ume__K7zdBN3CuXx91VE4a5g/view" target="_blank" rel="noopener noreferrer"><strong>Report »</strong></a>
     <br />
     <br />
   </p>
@@ -75,7 +75,7 @@ barrier.
   <br>
 ➢ A* algorithm is an empirical algorithm, which can be seen only in practice.
   <br>
-   <h3 style="background-color:powderblue;">For high-resolution images, kindly refer to this <a href="https://drive.google.com/file/d/1qVvd0E_7ume__K7zdBN3CuXx91VE4a5g/view" target="_blank"><strong>Report</strong></a>.</h3>
+   <h3 style="background-color:powderblue;">For high-resolution images, kindly refer to this <a href="https://drive.google.com/file/d/1qVvd0E_7ume__K7zdBN3CuXx91VE4a5g/view" target="_blank" rel="noopener noreferrer"><strong>Report</strong></a>.</h3>
 </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -112,9 +112,9 @@ Thanks once again!
 
 📫 Reach me: &emsp;
       <image src = "https://github.com/Raja58/ProShop-eCommerce/blob/main/in.jpg">
-          <a href = "https://www.linkedin.com/in/raja58" target = "_blank"><b> LinkedIn </b></a>
+          <a href = "https://www.linkedin.com/in/raja58" target = "_blank" rel="noopener noreferrer"><b> LinkedIn </b></a>
        <image src = "https://github.com/Raja58/ProShop-eCommerce/blob/main/mail.jpg">
-          <a href = "mailto:rajadurainit@gmail.com" target = "_blank"><b> Email </b></a>
+          <a href = "mailto:rajadurainit@gmail.com" target = "_blank" rel="noopener noreferrer"><b> Email </b></a>
           
 <div id="acknowledgments"></div>
 
