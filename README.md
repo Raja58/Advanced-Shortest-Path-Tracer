@@ -44,7 +44,6 @@
 ✓ Utilized & implemented an improved empirical algorithm (A* Algorithm) that outperforms the conventional Dijkstra’s approach by eliminating numerous inaccurate turns.
    
 </h3>
-<p align="right">(<a href="#top">back to top</a>)</p>
   
 
 <div id="unique-features"></div>
@@ -113,8 +112,6 @@ Thanks once again!
 
 📫 Reach me: &emsp;
  [![Linkedin](https://github.com/Raja58/ProShop-eCommerce/blob/main/in.jpg) LinkedIn](https://www.linkedin.com/in/raja58) &emsp; [![Email](https://github.com/Raja58/ProShop-eCommerce/blob/main/mail.jpg) Email](mailto:rajadurainit@gmail.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <div id="acknowledgments"></div>
