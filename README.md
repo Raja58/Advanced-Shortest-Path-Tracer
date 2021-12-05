@@ -69,7 +69,7 @@
 ➢ In example shown above, the algorithm knows the destination is at the back of the
 barrier.
    <br>
-➢ The algorithm always tries to go rightwards in each & every case.
+➢ The algorithm always tries to go towards the right direction in each & every case.
   <br>
 ➢ Thus, we are neglecting many misdirected paths, which may not lead us to the destination.
   <br>
