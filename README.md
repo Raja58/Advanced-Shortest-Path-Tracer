@@ -3,7 +3,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://github.com/Raja58/Vehicle-number-recognition-System/blob/main/file.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -21,65 +20,85 @@
 
 
 <!-- TABLE OF CONTENTS -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li> <a href="#about-the-project">About The Project</a> </li>
+    <li> <a href="#unique-features">Unique features</a> </li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
 
+<div id="about-the-project"></div>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
+<h3>
+✓ Built a well-featured PyGame Visualizer to simulate the path tracing algorithm.
+<br>
+✓ Utilized & implemented an improved empirical algorithm (A* Algorithm) that outperforms
+<br>
+&emsp; the conventional Dijkstra’s approach by eliminating numerous inaccurate turns.
+  
+  
+</h3>
+<p align="right">(<a href="#top">back to top</a>)</p>
+  
 
+<div id="unique-features"></div>
 
-
+## Unique features
+  
+  <h3>
+➢ Unlike Dijkstra, the A* algorithm doesn’t search in all the possible directions.
+  <br>
+➢ Instead, it is a directed algorithm and tries to go in the most appropriate direction.
+  <br>
+  <br>
+  <br>
+  
+  
+  <image src = "https://github.com/Raja58/Advanced-Shortest-Path-Tracer/blob/main/Screenshot%20(605).png" align="center">
+    <br>
+  <image src = "https://github.com/Raja58/Advanced-Shortest-Path-Tracer/blob/main/Screenshot%20(606).png" align="center">
+  
+  
+  <br>
+  <br>
+➢ In example shown above, the algorithm knows the destination is at the back of the
+barrier, <br> &emsp; so it always tries to go rightwards in this case.
+  <br>
+➢ Thus, we are neglecting many misdirected paths, which may not lead us to the destination.
+  <br>
+➢ A* algorithm is an empirical algorithm, which can be seen only in practice.
+  
+</h3>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<div id="contributing"></div>
+    
 <!-- CONTRIBUTING -->
 ## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
+<h4>
+Contributions make the open-source community a fantastic place to learn, inspire, and create.
+<br />
+Any contributions made are greatly appreciated.
+<br />
+<br />
+If any suggestions to improve this, please fork the repo and create a pull request.
+<br />
+Open an issue with the tag "enhancement".
+<br />
+Do not forget to give the project a star!
+<br />
+Thanks once again!
+</h4>
+  
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
@@ -88,29 +107,25 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
+
+   <div id="contact"></div> 
+    
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+📫 Reach me: &emsp;
+ [![Linkedin](https://github.com/Raja58/ProShop-eCommerce/blob/main/in.jpg) LinkedIn](https://www.linkedin.com/in/raja58) &emsp; [![Email](https://github.com/Raja58/ProShop-eCommerce/blob/main/mail.jpg) Email](mailto:rajadurainit@gmail.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+<div id="acknowledgments"></div>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Clément Mihailescu (Ex - Facebook, Ex - Google) is the primary inspiration for this project.
+    <br>
+Special Thanks to Murarry for his constant support and guidance as and when needed.
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
