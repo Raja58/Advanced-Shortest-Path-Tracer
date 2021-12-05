@@ -41,11 +41,8 @@
 <h3>
 ✓ Built a well-featured PyGame Visualizer to simulate the path tracing algorithm.
 <br>
-✓ Utilized & implemented an improved empirical algorithm (A* Algorithm) that outperforms
-<br>
-&emsp; the conventional Dijkstra’s approach by eliminating numerous inaccurate turns.
-  
-  
+✓ Utilized & implemented an improved empirical algorithm (A* Algorithm) that outperforms the conventional Dijkstra’s approach by eliminating numerous inaccurate turns.
+   
 </h3>
 <p align="right">(<a href="#top">back to top</a>)</p>
   
@@ -71,7 +68,7 @@
   <br>
   <br>
 ➢ In example shown above, the algorithm knows the destination is at the back of the
-barrier, <br> &emsp; so it always tries to go rightwards in this case.
+barrier, so it always tries to go rightwards in this case.
   <br>
 ➢ Thus, we are neglecting many misdirected paths, which may not lead us to the destination.
   <br>
