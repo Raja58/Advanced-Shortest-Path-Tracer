@@ -111,10 +111,7 @@ Thanks once again!
 ## Contact
 
 📫 Reach me: &emsp;
-      <image src = "https://github.com/Raja58/ProShop-eCommerce/blob/main/in.jpg">
-          <a href = "https://www.linkedin.com/in/raja58" target = "_blank" rel="noopener noreferrer"><b> LinkedIn </b></a>
-       <image src = "https://github.com/Raja58/ProShop-eCommerce/blob/main/mail.jpg">
-          <a href = "mailto:rajadurainit@gmail.com" target = "_blank" rel="noopener noreferrer"><b> Email </b></a>
+ [![Linkedin](https://github.com/Raja58/ProShop-eCommerce/blob/main/in.jpg) LinkedIn](https://www.linkedin.com/in/raja58) &emsp; [![Email](https://github.com/Raja58/ProShop-eCommerce/blob/main/mail.jpg) Email](mailto:rajadurainit@gmail.com)
           
 <div id="acknowledgments"></div>
 
