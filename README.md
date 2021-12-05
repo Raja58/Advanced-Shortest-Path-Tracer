@@ -9,7 +9,7 @@
   <h1 align="center">Advanced-Shortest-Path-Tracer</h1>
 
   <p align="center">
-    For the project report click below!
+    <b> For project report click below! </b>
     <br />
     <a href="https://drive.google.com/file/d/1qVvd0E_7ume__K7zdBN3CuXx91VE4a5g/view"><strong>Report »</strong></a>
     <br />
@@ -22,7 +22,7 @@
 <!-- TABLE OF CONTENTS -->
 
 <details>
-  <summary>Table of Contents</summary>
+    <summary><b>Table of Contents</b></summary>
   <ol>
     <li> <a href="#about-the-project">About The Project</a> </li>
     <li> <a href="#unique-features">Unique features</a> </li>
