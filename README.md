@@ -68,7 +68,9 @@
   <br>
   <br>
 ➢ In example shown above, the algorithm knows the destination is at the back of the
-barrier, so it always tries to go rightwards in this case.
+barrier.
+   <br>
+➢ The algorithm always tries to go rightwards in each & every case.
   <br>
 ➢ Thus, we are neglecting many misdirected paths, which may not lead us to the destination.
   <br>
