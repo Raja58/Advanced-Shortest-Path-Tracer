@@ -50,7 +50,7 @@
 
 ## Unique features
   
-  <h3>
+  <p>
 ➢ Unlike Dijkstra, the A* algorithm doesn’t search in all the possible directions.
   <br>
 ➢ Instead, it is a directed algorithm and tries to go in the most appropriate direction.
@@ -74,15 +74,16 @@ barrier.
 ➢ Thus, we are neglecting many misdirected paths, which may not lead us to the destination.
   <br>
 ➢ A* algorithm is an empirical algorithm, which can be seen only in practice.
-  
-</h3>
+  <br>
+   <h3 style="background-color:powderblue;">For high-resolution images, kindly refer to this <a href="https://drive.google.com/file/d/1qVvd0E_7ume__K7zdBN3CuXx91VE4a5g/view"><strong>Report</strong></a>.</h3>
+</p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <div id="contributing"></div>
     
 <!-- CONTRIBUTING -->
 ## Contributing
-<h4>
+<h3>
 Contributions make the open-source community a fantastic place to learn, inspire, and create.
 <br />
 Any contributions made are greatly appreciated.
@@ -95,7 +96,7 @@ Open an issue with the tag "enhancement".
 Do not forget to give the project a star!
 <br />
 Thanks once again!
-</h4>
+</h3>
   
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
